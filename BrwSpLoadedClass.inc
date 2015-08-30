@@ -18,3 +18,6 @@ updateViewRecord   procedure(),virtual
 
 
    _endofinclude_
+
+! Enable Clarion INC file syntax highlighting in GitHub
+! vim: set filetype=clarion: 
